@@ -1,4 +1,4 @@
-# UdacityAndroidBasics-News_App
+# News Application
 Project 8 of 10 in the Udacity Android Basics Nanodegree
 
 This project was to create an application that would search for relevant news articles using the Guardian API provided through their website. This application would query the site using the search string provided on the main page, and return a JSON response that could be parsed through for the attributes of related articles. 
